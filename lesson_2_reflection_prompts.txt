@@ -1,10 +1,19 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	it'll creat .git folder and store the status of file.
+	For getting log for git, you must create a invisable folder to store the data
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	it giving buffer between working directory and repository.
+	it make commit more flexible.You can commit any file you want and also keep some file not to.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	i can use command "git diff" to compare staging area and working directory.
+	This way helps you understand what haved change to make sure one commit one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
