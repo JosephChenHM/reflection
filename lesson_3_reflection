@@ -11,7 +11,9 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks: Clone project from auther git repo and make some change and traceable
+    Clone: Download it to your computer to continue you work
+    Branches: Make a new feature or make a new version of project. I can merge all branch later on for final result.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
