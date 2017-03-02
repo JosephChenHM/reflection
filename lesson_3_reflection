@@ -18,14 +18,17 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    you can cowork with many people and getting new version
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Have to discuss to your cowork first and make agreement to adopt the change.
+    Using Git is sure easier than discuss to coworker
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    have some advice/some idea on project, i'll start a new branch and add some commit.
+    Using pull request to interact with other coworker and review my change.
+    Finally merge it to master to make project more great.

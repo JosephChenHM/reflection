@@ -35,3 +35,14 @@ Now that you have your workspace set up, what do you want to try using Git for?
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 	i can easy view changes that find out true bug is.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	cause function code are highly relative,one logical change might change serival file. On the other hand,Docs doesn't.
+
+How might using version control make you more confident to make changes that could break something?
+
+	i can easy checkout older version and find bug. It give me more confident to make some changes.
+
+
+

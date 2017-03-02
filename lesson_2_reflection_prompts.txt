@@ -23,8 +23,18 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	You will understand where you are in version history.
+	You will easy to navigate to different branch to working on different thing(new feature or experiment)
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	It will combine into one branches(master) and you can acess all these two branches commits(master and coins)by git log under master branch.
+	
+	To visualize the commit history and can easy find the code change by "git diff" or "git show".
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	auto-merging pros: save time to copy and paste. Also, even it can't merges it still will show you the part that conflected.
